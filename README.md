@@ -1,6 +1,6 @@
-# SUMO Traffic Simulation
+## SUMO Traffic Simulation
 
-The "Simulation of Urban MObility" (SUMO) environment was used to model traffic junctions. 
+The <a href="https://sumo.dlr.de/docs/index.html">"Simulation of Urban MObility" (SUMO)</a> environment was used to model traffic junctions. 
 
 .xml file contains the drawn intersection model. It includes defined roads, intersections. 
 Additionally, in the .rou.xml file, traffic flow for the drawn intersection is written and traffic routes, number of vehicles, type of vehicles are specified.
